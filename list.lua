@@ -1,8 +1,4 @@
 local table = {
-   ["62025080"] = true,
-   ["1"] = true,
-   ["2"] = true,
-   ["3"] = true,
-   ["4"] = true,
+   ["2396889158"] = true,
 }
 return table
