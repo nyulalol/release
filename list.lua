@@ -4,5 +4,6 @@ local table = {
    ["418195008"] = true,
    ["3110085779"] = true,
    ["2839293155"] = true,
+   ["10767895"] = true,
 }
 return table
